@@ -11,3 +11,4 @@ Responsive book catalog site built with HTML and CSS.
 
 ## How to Use
 - Open the `index.html` file in your browser to test.
+- 🔗 **View the website online:** [Click here]](https://olucas-dev.github.io/Book-Catalog/)
