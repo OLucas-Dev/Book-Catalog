@@ -1,5 +1,5 @@
 # Book Catalog
-Responsive book catalog site built with HTML and CSS.
+Responsive book catalog site built with HTML.
 
 ## Technologies
 - HTML
